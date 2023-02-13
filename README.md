@@ -1,4 +1,4 @@
-# timp-729-1spi
+# Lab 1
 Program1 - 01_hello_world.c
 Write a program that the phrase "Hello, World" on a separate line.
 Input and output data format - double type
