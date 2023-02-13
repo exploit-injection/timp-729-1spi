@@ -1,4 +1,4 @@
-# timp-729-1spi
+# Lab2
 Program 1 - 06_count_positive.c
 Write a program that finds the number of positive numbers.
 Input and output data are of type double.
